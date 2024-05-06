@@ -1,6 +1,6 @@
-# Machine Learning Engineer
+### Machine Learning Engineer
 
-### I have couple of experience in Core ML team building NER based service, recommendation widget, Finetuning LLMs such as GPT, Lamma2 model for specfic usecases in corporate settings.
+ I have couple of experience in Core ML team building NER based service, recommendation widget, Finetuning LLMs such as GPT, Lamma2 model for specfic usecases in corporate settings.
 
 ### Education
 Masters speciazing in Machine Learning
